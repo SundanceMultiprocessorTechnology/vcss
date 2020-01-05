@@ -1,4 +1,4 @@
-# VCS-1
+# VCSS repository
 <img align="right" src=https://www.sundance.com/wp-content/uploads/docs/sundance_logo_105.png>
 This repository stores the VCSS source code and documentation.
 
